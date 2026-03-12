@@ -1,6 +1,6 @@
 shodan
 dnspython
-pandas
+pandas==2.1.4
 openpyxl
 bloodhound
 python-dateutil

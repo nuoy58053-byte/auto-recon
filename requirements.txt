@@ -1,0 +1,6 @@
+shodan
+dnspython
+pandas
+openpyxl
+bloodhound
+python-dateutil

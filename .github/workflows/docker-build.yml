@@ -27,5 +27,3 @@ jobs:
           context: .
           push: true
           tags: ghcr.io/nuoy58053-byte/auto-recon:latest
-          cache-from: type=gha
-          cache-to: type=gha,mode=max
